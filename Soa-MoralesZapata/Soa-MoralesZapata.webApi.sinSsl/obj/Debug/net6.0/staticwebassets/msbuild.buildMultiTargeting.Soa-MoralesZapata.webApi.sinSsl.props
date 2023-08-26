@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Soa-MoralesZapata.webApi.sinSsl.props" />
+</Project>

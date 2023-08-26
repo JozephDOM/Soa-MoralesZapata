@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\bin\Debug\net6.0\Soa-MoralesZapata.model.deps.json
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\bin\Debug\net6.0\Soa-MoralesZapata.model.dll
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\bin\Debug\net6.0\Soa-MoralesZapata.model.pdb
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\Soa-MoralesZapata.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\Soa-MoralesZapata.model.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\Soa-MoralesZapata.model.AssemblyInfo.cs
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\Soa-MoralesZapata.model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\Soa-MoralesZapata.model.dll
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\refint\Soa-MoralesZapata.model.dll
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\Soa-MoralesZapata.model.pdb
+C:\Users\USER\Desktop\hackeoEtico\Soa-MoralesZapataGithub\Soa-MoralesZapata\Soa-MoralesZapata\Soa-MoralesZapata.model\obj\Debug\net6.0\ref\Soa-MoralesZapata.model.dll
